@@ -92,8 +92,8 @@ git push origin main
 
 ## 📸 Screenshots
 🚧 (apt deploy image)
-<img src="">
-<img src="">
+<img src="https://github.com/rpjinu/Pancreatic_Cancer_Survival_Prediction/blob/main/deploy_imgl1.png" width=600>
+<img src="" width=600>
 
 
 
